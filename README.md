@@ -18,6 +18,7 @@ This project demonstrates VCL forms, frames, and object-oriented Delphi programm
 - The short music clip is the **Mastermind leitmotif** composed by Neil Richardson. 
 - Both are included **for educational and demonstration purposes only**, and all rights remain with their respective copyright holders.  
 - This code is **not intended for commercial use**.
+- For further information https://en.wikipedia.org/wiki/Mastermind_(board_game)
 
 ## Files Included
 
