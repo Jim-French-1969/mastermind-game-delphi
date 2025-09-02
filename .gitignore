@@ -1,0 +1,28 @@
+# Delphi IDE / project settings
+*.dsk
+*.identcache
+*.dproj.local
+*.~dsk
+*.cfg
+*.~cfg
+*.dof
+
+# Backup / temporary files
+*.~pas
+*.~dfm
+*.~res
+*.~dpr
+
+# Miscellaneous
+*.txt
+*.log
+
+# Subfolders
+dcu/
+exe/
+__history/
+__recovery/
+
+*.~bak        # generic backups
+*.~tmp        # temporary files
+*.~old        # sometimes Delphi creates these
