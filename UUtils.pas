@@ -12,12 +12,12 @@ function ShowMessage(Msg : string; DlgType : TMsgDlgType = mtInformation) : bool
 implementation
 
 uses
-  UConsts, SysUtils, Windows;
+  UConsts, SysUtils, Windows, System.UITypes;
 
 function ColourNumToColour(Num : integer) : TColor;
 begin
   if (Num < 1) or (Num > NUM_COLOURS) then
-    raise Exception.CreateFmt('The colour number refereence "%d" is out of range', [Num]);
+    raise Exception.CreateFmt('The colour number reference "%d" is out of range', [Num]);
 
   Result := COL1; // Avoid warning - undefined function result
   case Num of

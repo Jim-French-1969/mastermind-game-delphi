@@ -36,7 +36,7 @@ implementation
 // The short music is the leitmotif from
 // "Approaching Menace" composed by Neil Richardson used in the Mastermind TV show.
 // Both are used for educational/demonstration purposes only.
-// This code is not designed to be a commercial product
+// This code is not designed to be a commercial product.
 // All rights belong to their respective copyright holders.
 uses
   UConsts, UfrmPlayingBoard, ShellAPI, MMSystem;

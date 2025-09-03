@@ -26,6 +26,17 @@ This project demonstrates VCL forms, frames, and object-oriented Delphi programm
 - Resources: ".res" files for music and icon  
 - Icon file: ".ico"  
 
+## Screenshot
+
+![Mastermind Delphi Screenshot](screenshot.png)
+
+## Compatibility
+
+- Tested on Windows 10 with Delphi 7 Pro and Delphi 12 Community Edition.  
+- Not yet tested on Windows 11 — functionality should be fine, but not guaranteed.  
+- The intro sound uses the WinAPI `sndPlaySound` function with a WAV resource.  
+  This API is deprecated but still works on most Windows versions.
+
 ## Usage
 
 1. Open the project in Delphi (any version >= Delphi 7).  
