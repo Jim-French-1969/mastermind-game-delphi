@@ -46,3 +46,10 @@ This project demonstrates VCL forms, frames, and object-oriented Delphi programm
 ## License
 
 For the code itself, you may use it under your preferred license (MIT / BSD / etc.) as long as the included logo/music are **used only for educational/demo purposes**.
+
+## Contact / Support
+
+If you find a bug or have a question, please use the **[Issues](https://github.com/Jim-French-1969/mastermind-game-delphi/issues)** tab.  
+
+
+
