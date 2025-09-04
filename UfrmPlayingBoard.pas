@@ -4,7 +4,7 @@ interface
 
 uses
   Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
-  Dialogs, StdCtrls, ComCtrls, UTypes, ExtCtrls, MPlayer;
+  Dialogs, StdCtrls, ComCtrls, UTypes, ExtCtrls;
 
 type
   TfrmPlayingBoard = class(TForm)

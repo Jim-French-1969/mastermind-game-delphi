@@ -12,7 +12,7 @@ function ShowMessage(Msg : string; DlgType : TMsgDlgType = mtInformation) : bool
 implementation
 
 uses
-  UConsts, SysUtils, Windows, System.UITypes;
+  UConsts, SysUtils, Windows;
 
 function ColourNumToColour(Num : integer) : TColor;
 begin
